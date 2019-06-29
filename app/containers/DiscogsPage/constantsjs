@@ -1,0 +1,4 @@
+export const DOLLAR = '$'
+export const POUND = '£'
+export const EURO = '€'
+export const SWISS_FRANK = 'CHF'
